@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Sayed
+# Hi, I'm Mohammad Saayed
 
 - MIS graduate from Cairo, Egypt
 - Currently learning web development (HTML & CSS) with freeCodeCamp
